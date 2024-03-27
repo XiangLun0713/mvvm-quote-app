@@ -23,7 +23,7 @@ fun MyTopAppBar(
         ),
         title = {
             Text(
-                text = title,
+                text = "❝ $title",
                 fontFamily = FontFamily.Serif
             )
         }
