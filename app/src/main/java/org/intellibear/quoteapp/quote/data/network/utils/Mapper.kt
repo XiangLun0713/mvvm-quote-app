@@ -1,4 +1,4 @@
-package org.intellibear.quoteapp.quote.data.utils
+package org.intellibear.quoteapp.quote.data.network.utils
 
 import io.ktor.client.plugins.ClientRequestException
 import io.ktor.client.plugins.ServerResponseException

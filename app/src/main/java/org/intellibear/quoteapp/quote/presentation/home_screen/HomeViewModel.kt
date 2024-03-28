@@ -9,7 +9,7 @@ import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.launch
 import org.intellibear.quoteapp.global.Event
 import org.intellibear.quoteapp.global.utils.sendEvent
-import org.intellibear.quoteapp.quote.data.utils.ApiError
+import org.intellibear.quoteapp.quote.data.network.utils.ApiError
 import org.intellibear.quoteapp.quote.domain.repositories.QuoteRepository
 import javax.inject.Inject
 
