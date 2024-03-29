@@ -1,4 +1,4 @@
-package org.intellibear.quoteapp.quote.data.utils
+package org.intellibear.quoteapp.quote.data.network.utils
 
 sealed class ApiError {
     data class HttpException(val code: Int, val message: String): ApiError()
